@@ -1,2 +1,2 @@
 This is a binary classification model that has been trained on CAT-DOG dataset.
-It was trained for epoch resuting in 99.8% training accuracy.
+It was trained for 12 epochs resuting in 99.8% training accuracy.
